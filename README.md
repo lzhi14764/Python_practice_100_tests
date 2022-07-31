@@ -1,0 +1,3 @@
+# Python_practice_100_tests
+
+来自菜鸟教程python练习100例，使用于python3
